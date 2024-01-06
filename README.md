@@ -1,2 +1,2 @@
-# hello-world
-Simple Hello World app made to complete GHW Challenge
+# Hello World
+Simple Hello World app made to complete [Global Hack Week Challenge](https://ghw.mlh.io/challenges)
